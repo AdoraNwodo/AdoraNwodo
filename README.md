@@ -15,7 +15,9 @@ I am very passionate about education, technology & music.
 
 🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences
 
-💬 Ask me about: Infrastrcuture As Code, Mixed Reality, Dotnet
+💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet
+
+🌱 I’m currently learning more about Cloud Security
 
 📫 How to reach me: You can find me on [twitter](https://twitter.com/AdoraNwodo). I'm always there
 
