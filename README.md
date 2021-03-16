@@ -13,7 +13,7 @@ I am a Software Engineer 👩🏽‍💻, Tech Content Creator 🚀 and DJ 🎧
 I am very passionate about education, technology & music.
 
 
-🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences
+🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences. In my job, the most recent thing I'm working on is [Microsoft Mesh](https://www.microsoft.com/en-us/mesh)
 
 💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet
 
