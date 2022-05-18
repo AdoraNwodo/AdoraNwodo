@@ -17,7 +17,7 @@ I am very passionate about education, technology & music.
 
 💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet
 
-🌱 I’m currently learning more about Cloud Security
+🌱 I’m currently learning more about Cloud Security and Web3
 
 📫 How to reach me: You can find me on [twitter](https://twitter.com/AdoraNwodo). I'm always there
 
