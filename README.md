@@ -8,7 +8,7 @@
 
 [![Adora Nwodo](https://adoranwodo.com/profile.jpg)](https://www.adoranwodo.com)
 
-I am a Software Engineer 👩🏽‍💻, Tech Content Creator 🚀 and DJ 🎧 
+I am a Software Engineer 👩🏽‍💻, Digital Creator 🚀 , Published Author 📖 and DJ 🎧 
 
 I am very passionate about education, technology & music.
 
