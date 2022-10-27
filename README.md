@@ -6,7 +6,7 @@
   <a href="https://youtube.com/c/adorahacktv">📼 YouTube</a>
 </p>
 
-[![Adora Nwodo](https://adoranwodo.com/profile.jpg)](https://www.adoranwodo.com)
+[![Adora Nwodo](https://adoranwodo.com/new-profile.jpg)](https://www.adoranwodo.com)
 
 I am a Software Engineer 👩🏽‍💻, Digital Creator 🚀 , Published Author 📖 and DJ 🎧 
 
