@@ -20,19 +20,22 @@ I'm the author of [Cloud Engineering for Beginners](https://adoranwodo.com/books
 
 🌱 I’m currently learning more about Cloud Security and Web3
 
-📫 How to reach me: You can find me on [twitter](https://twitter.com/AdoraNwodo). I'm always there
+📫 How to reach me: You can find me on [Twitter](https://twitter.com/AdoraNwodo), [LinkedIn](https://www.linkedin.com/in/adoranwodo/), [YouTube](https://www.youtube.com/@AdoraHack) or [Instagram](https://www.instagram.com/adorahack/). I'm always on the internet 🌍 📲
 
 ⚡ Fun fact: I really love shoes. I have a lot of them 👠
 
   <!-- GitHub section -->
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
  
- <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoranwodo" alt="Adora's LangStat" style="margin-bottom: 10px;"/>
-  
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoranwodo" alt="Adora's LangStat"/>
+</div>
+<div>
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adoranwodo&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Adora's language" height="172px"  width="500px"/>
 </div>
-
+  <br />
+  
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
