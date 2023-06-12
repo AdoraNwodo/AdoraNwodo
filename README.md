@@ -29,7 +29,7 @@ I'm the author of [Cloud Engineering for Beginners](https://adoranwodo.com/books
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoranwodo" alt="Adora's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adoranwodo&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Adora's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adoranwodo&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Adora's language" height="172px"  width="400px"/>
 </div>
 
 **Expand to view**
