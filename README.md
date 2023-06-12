@@ -8,17 +8,19 @@
 
 [![Adora Nwodo](https://adoranwodo.com/new-profile.jpg)](https://www.adoranwodo.com)
 
-I am a Software Engineer 👩🏽‍💻, Digital Creator 🚀 , Published Author 📖 and DJ 🎧 
+I am a Software Engineer 👩🏽‍💻, Digital Creator 🚀 , Global Speaker 🎤, Multi-Published Author 📖 and DJ 🎧 
+
+I am also the founder of [NexaScale](https://nexascale.org/), a social enterprise created to help people start and scale their tech careers 💛
 
 I am very passionate about education, technology & music.
 
-I'm the author of [Cloud Engineering for Beginners](https://adoranwodo.com/books/cloud-engineering-for-beginners), and I'm currently writing a book with [Wiley](https://www.wiley.com/en-us) called [Beginning Azure DevOps](https://adoranwodo.com/books/beginning-azure-devops)
+I'm the author of [Cloud Engineering for Beginners](https://adoranwodo.com/books/cloud-engineering-for-beginners), and I recently released a new book with [Wiley](https://www.wiley.com/en-us) called [Beginning Azure DevOps](https://adoranwodo.com/books/beginning-azure-devops).
 
-🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences. In my job, the most recent thing I'm working on is [Microsoft Mesh](https://www.microsoft.com/en-us/mesh)
+🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences. In my job, the most recent thing I'm working on is [Microsoft Mesh](https://www.microsoft.com/en-us/mesh).
 
-💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet
+💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet.
 
-🌱 I’m currently learning more about Cloud Security and Web3
+🌱 I’m currently learning more about Cloud Security and Web3.
 
 📫 How to reach me: You can find me on [Twitter](https://twitter.com/AdoraNwodo), [LinkedIn](https://www.linkedin.com/in/adoranwodo/), [YouTube](https://www.youtube.com/@AdoraHack) or [Instagram](https://www.instagram.com/adorahack/). I'm always on the internet 🌍 📲
 
