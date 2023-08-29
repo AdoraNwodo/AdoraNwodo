@@ -16,8 +16,6 @@ I am very passionate about education, technology & music.
 
 I'm the author of [Cloud Engineering for Beginners](https://adoranwodo.com/books/cloud-engineering-for-beginners), and I recently released a new book with [Wiley](https://www.wiley.com/en-us) called [Beginning Azure DevOps](https://adoranwodo.com/books/beginning-azure-devops).
 
-🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences. In my job, the most recent thing I'm working on is [Microsoft Mesh](https://www.microsoft.com/en-us/mesh).
-
 💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet.
 
 🌱 I’m currently learning more about Cloud Security and Web3.
