@@ -22,7 +22,7 @@ I'm the author of 7 books on Cloud Engineering with publishers like Wiley, O'Rei
 
 ⚡ Fun fact: I really love shoes. I have a lot of them 👠
 
-  <!-- GitHub section -->
+  <!-- GitHub section
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
  
 <div>
@@ -44,7 +44,7 @@ I'm the author of 7 books on Cloud Engineering with publishers like Wiley, O'Rei
   <br/>
    <a href="https://github.com/adoranwodo/"><img alt="Adora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adoranwodo&custom_title=Adora's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-</details>
+</details>-->
 
 <!-- GitHub section: END -->
 
