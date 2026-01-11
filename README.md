@@ -8,19 +8,17 @@
 
 [![Adora Nwodo](https://adoranwodo.com/new-profile.jpg)](https://www.adoranwodo.com)
 
-I am a Software Engineer 👩🏽‍💻, Digital Creator 🚀 , Global Speaker 🎤, Multi-Published Author 📖 and DJ 🎧 
+I am a Software Engineering Manager 👩🏽‍💻, Global Speaker 🎤, and Multi-Published Author 📖
 
 I am also the founder of [NexaScale](https://nexascale.org/), a social enterprise created to help people start and scale their tech careers 💛
 
 I am very passionate about education, technology & music.
 
-I'm the author of [Cloud Engineering for Beginners](https://adoranwodo.com/books/cloud-engineering-for-beginners), and I recently released a new book with [Wiley](https://www.wiley.com/en-us) called [Beginning Azure DevOps](https://adoranwodo.com/books/beginning-azure-devops).
+I'm the author of 7 books on Cloud Engineering with publishers like Wiley, O'Reilly, and more. You can find my books [here](https://adoranwodo.com/books).
 
-💬 Ask me about: Infrastructure As Code, Mixed Reality, Dotnet.
+💬 Ask me about: Artificial Intelligence, Platform Engineering, Building Reliable Engineering Teams.
 
-🌱 I’m currently learning more about Cloud Security and Web3.
-
-📫 How to reach me: You can find me on [Twitter](https://twitter.com/AdoraNwodo), [LinkedIn](https://www.linkedin.com/in/adoranwodo/), [YouTube](https://www.youtube.com/@AdoraHack) or [Instagram](https://www.instagram.com/adorahack/). I'm always on the internet 🌍 📲
+📫 How to reach me: You can find me on [Twitter(X)](https://x.com/AdoraNwodo), [LinkedIn](https://www.linkedin.com/in/adoranwodo/), or [Instagram](https://www.instagram.com/adorahack/). I have a large community on the internet 🌍 📲
 
 ⚡ Fun fact: I really love shoes. I have a lot of them 👠
 
