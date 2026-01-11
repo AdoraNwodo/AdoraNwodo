@@ -8,7 +8,7 @@
 
 [![Adora Nwodo](https://adoranwodo.com/new-profile.jpg)](https://www.adoranwodo.com)
 
-I am a Software Engineering Manager 👩🏽‍💻, Global Speaker 🎤, and Multi-Published Author 📖
+I am a Platform Engineering Manager 👩🏽‍💻, Global Speaker 🎤, and Multi-Published Author 📖
 
 I am also the founder of [NexaScale](https://nexascale.org/), a social enterprise created to help people start and scale their tech careers 💛
 
